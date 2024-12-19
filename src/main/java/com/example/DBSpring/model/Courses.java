@@ -14,6 +14,10 @@ public class Courses {
 
     String name;
 
+    public Courses() {
+
+    }
+
     public int getNo() {
         return no;
     }
